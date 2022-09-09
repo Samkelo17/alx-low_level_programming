@@ -1,14 +1,14 @@
 #include <stdio>
 
 /**
- * main - print the strong in the put function
- *
- * Description: using the main function
- * this program prints "Programming is like building a multilingual puzzle
- * Return: 0
- */
- int main(void)
+* main: - print the string in the put function
+*
+* Description: using the main function
+* this programme prints "Programming is like building a multilingual puzzle
+* Return: 0
+*/
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+       puts("\"Programming is like buliding a multilingual puzzle");
+       return (0);
 }

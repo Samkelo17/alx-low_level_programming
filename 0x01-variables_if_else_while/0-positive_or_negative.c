@@ -24,6 +24,6 @@ if (n ==0)
 {
 printf("%d is zero\n", n);
 }
-return (0)
+return (0);
 }
 

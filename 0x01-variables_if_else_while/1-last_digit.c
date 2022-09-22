@@ -3,7 +3,7 @@
 /* more headers here */
 
 /* betty style doc for function here */
-int main(void)
+int main()
 {
 	int n;
 
